@@ -136,7 +136,7 @@
         </StackLayout>
 
         <StackLayout Margin="16, 37, 16, 0" Grid.Row="2">
-            <Label Text="The right cross platform tools can streamline your workflow, helping you work smarter – rather than harder – and more efficiently. After all, you want to invest your energy in solving problems, delighting users and creating beautiful apps." TextColor="#000000"/>
+            <Label Text="The right web design tools can streamline your workflow, helping you work smarter – rather than harder – and more efficiently. After all, you want to invest your energy in solving problems, delighting users and creating beautiful designs." TextColor="#000000"/>
             <Label Text="Please give us your Feedback" TextColor="#000000"/>
             <Label Text="Regards," Margin="0, 25, 0, 0" TextColor="#000000"/>
             <Label Text="Telerik UI for Xamarin Team" TextColor="#000000"/>

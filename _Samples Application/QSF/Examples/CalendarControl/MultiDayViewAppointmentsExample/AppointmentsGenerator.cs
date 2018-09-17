@@ -41,7 +41,8 @@ namespace QSF.Examples.CalendarControl.MultiDayViewAppointmentsExample
                     DateTime.Today.AddHours(8),
                     DateTime.Today.AddHours(8.5),
                     "Meeting",
-                    AppointmentColors[0]),
+                    AppointmentColors[0],
+                    true),
                 new Appointment(
                     DateTime.Today.AddDays(1),
                     DateTime.Today.AddDays(3),
@@ -54,13 +55,13 @@ namespace QSF.Examples.CalendarControl.MultiDayViewAppointmentsExample
                     "Retrospective meeting",
                     AppointmentColors[1]),
                 new Appointment(
-                    DateTime.Today.AddDays(1).AddHours(10),
-                    DateTime.Today.AddDays(1).AddHours(12),
+                    DateTime.Today.AddDays(1).AddHours(2),
+                    DateTime.Today.AddDays(1).AddHours(4),
                     "Planning",
                     AppointmentColors[2]),
                 new Appointment(
-                    DateTime.Today.AddDays(3).AddHours(8),
-                    DateTime.Today.AddDays(3).AddHours(9),
+                    DateTime.Today.AddDays(3),
+                    DateTime.Today.AddDays(3).AddHours(1),
                     "Meeting",
                     AppointmentColors[3])
             };

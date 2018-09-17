@@ -864,7 +864,7 @@
           <Description>Demonstrates how you could utilize Load On Demand feature in order to delay the population of RadTreeView and load subitems only when they’re requested, thus improving the performance of your app.</Description>
           <IsScenario>false</IsScenario>
           <IsThemable>false</IsThemable>
-          <CodeURL>https://github.com/telerik/telerik-xamarin-forms-samples/tree/master/_Samples%20Application/QSF/Examples/TreeViewControl/LoadOnDemand</CodeURL>
+          <CodeURL></CodeURL>
         </Example>
       </Examples>
     </Control>

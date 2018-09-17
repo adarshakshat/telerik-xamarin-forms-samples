@@ -68,7 +68,7 @@
                                          CompletionMode="Contains"
                                          Margin="0, 20, 0, 0"
                                          TextChanged="OnTextChanged"
-                                         SuggestionViewHeight="250"
+                                         SuggestionViewHeight="200"
                                          TextSearchPath="Title"
                                          SuggestionViewBackgroundColor="#FFFFFF"
                                          LoadingTemplate="{StaticResource LoadingMoviesTemplate}"
